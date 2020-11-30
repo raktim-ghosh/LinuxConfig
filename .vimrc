@@ -1,0 +1,1 @@
+/home/raktim/.vim/vimrc
